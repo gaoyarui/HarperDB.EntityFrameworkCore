@@ -86,6 +86,3 @@ public class Cutomers
 
 8. Attempt to build and run.
 9. Repeat until successful
-
-## How to Deploy
-Ask Jaxson

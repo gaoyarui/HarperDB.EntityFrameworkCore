@@ -7,7 +7,12 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <!-- <icon>icon.png</icon> -->
-    <description>The HaperDB EntityFrameworkCore Provider Package for .NET 6.0.</description>
+    <description>
+        The HarperDB EntityFrameworkCore Provider Package for .NET 6.0.
+        GitHub Repo: https://github.com/HarperDB/HarperDB.EntityFrameworkCore
+        HarperDB Documentation: https://docs.harperdb.io
+        HarperDB Postman API Docs: https://api.harperdb.io
+    </description>
     <releaseNotes>Include EFCore libraries.</releaseNotes>
     <dependencies>
       <group targetFramework=".NET6.0">
