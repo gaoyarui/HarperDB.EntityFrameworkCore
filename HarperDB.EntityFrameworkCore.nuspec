@@ -5,13 +5,10 @@
     <version>1.0.0</version>
     <authors>HarperDB</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!-- <license type="expression">MIT</license> -->
+    <license type="expression">MIT</license>
     <!-- <icon>icon.png</icon> -->
-    <!-- <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl> -->
     <description>The HaperDB EntityFrameworkCore Provider Package for .NET 6.0.</description>
     <releaseNotes>Include EFCore libraries.</releaseNotes>
-    <!-- <copyright>$copyright$</copyright> -->
-    <!-- <tags>Tag1 Tag2</tags> -->
     <dependencies>
       <group targetFramework=".NET6.0">
       </group>
